@@ -1,4 +1,4 @@
-package org.endless.xin.logger;
+package org.endless.xin.ops;
 
 /**
  * Hello world!

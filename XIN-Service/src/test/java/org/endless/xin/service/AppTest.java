@@ -1,4 +1,4 @@
-package org.endless.xin.computing;
+package org.endless.xin.service;
 
 import static org.junit.Assert.assertTrue;
 

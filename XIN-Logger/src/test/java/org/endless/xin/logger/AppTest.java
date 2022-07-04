@@ -1,4 +1,4 @@
-package org.endless.logger;
+package org.endless.xin.logger;
 
 import static org.junit.Assert.assertTrue;
 

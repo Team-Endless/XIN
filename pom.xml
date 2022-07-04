@@ -6,16 +6,25 @@
 
   <groupId>org.endless.xin</groupId>
   <artifactId>xin</artifactId>
+  <packaging>pom</packaging>
   <version>0.0.1</version>
+  <modules>
+    <module>XIN-Computing</module>
+    <module>XIN-Logger</module>
+    <module>XIN-Persistence</module>
+    <module>XIN-Communication</module>
+    <module>XIN-Configuration</module>
+    <module>XIN-Service</module>
+    <module>XIN-Ops</module>
+    <module>XIN-Monitor</module>
+  </modules>
 
   <name>xin</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.source>18</maven.compiler.source>
+    <maven.compiler.target>18</maven.compiler.target>
   </properties>
 
   <dependencies>

@@ -1,4 +1,4 @@
-package org.endless.xin;
+package org.endless.xin.persistence;
 
 /**
  * Hello world!

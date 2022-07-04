@@ -1,4 +1,4 @@
-package org.endless.xin.xin;
+package org.endless.xin.computing;
 
 /**
  * Hello world!

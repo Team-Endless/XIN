@@ -9,11 +9,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.endless.xin.computing</groupId>
-    <artifactId>xin-computing</artifactId>
+    <groupId>org.endless.xin.ops</groupId>
+    <artifactId>xin-ops</artifactId>
     <packaging>jar</packaging>
 
-    <name>xin-computing</name>
+    <name>xin-ops</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
