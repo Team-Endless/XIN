@@ -17,6 +17,7 @@
     <module>XIN-Service</module>
     <module>XIN-Ops</module>
     <module>XIN-Monitor</module>
+    <module>XIN-Util</module>
   </modules>
 
   <name>xin</name>
