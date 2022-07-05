@@ -9,15 +9,15 @@
   <packaging>pom</packaging>
   <version>0.0.1</version>
   <modules>
-    <module>XIN-Computing</module>
-    <module>XIN-Logger</module>
-    <module>XIN-Persistence</module>
-    <module>XIN-Communication</module>
-    <module>XIN-Configuration</module>
-    <module>XIN-Service</module>
-    <module>XIN-Ops</module>
-    <module>XIN-Monitor</module>
-    <module>XIN-Util</module>
+    <module>xin-communication</module>
+    <module>xin-computing</module>
+    <module>xin-configuration</module>
+    <module>xin-logger</module>
+    <module>xin-monitor</module>
+    <module>xin-ops</module>
+    <module>xin-persistence</module>
+    <module>xin-service</module>
+    <module>xin-util</module>
   </modules>
 
   <name>xin</name>
