@@ -17,8 +17,8 @@
     <file url="file://$PROJECT_DIR$/xin-ops/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xin-persistence/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xin-persistence/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/xin-service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/xin-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xin-servicemesh/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xin-servicemesh/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xin-util/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xin-util/src/main/resources" charset="UTF-8" />
   </component>

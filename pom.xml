@@ -16,7 +16,7 @@
     <module>xin-monitor</module>
     <module>xin-ops</module>
     <module>xin-persistence</module>
-    <module>xin-service</module>
+    <module>xin-servicemesh</module>
     <module>xin-util</module>
   </modules>
 

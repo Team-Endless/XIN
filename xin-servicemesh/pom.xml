@@ -10,10 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.endless.xin.service</groupId>
-    <artifactId>xin-service</artifactId>
+    <artifactId>xin-servicemesh</artifactId>
     <packaging>jar</packaging>
 
-    <name>xin-service</name>
+    <name>xin-servicemesh</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
