@@ -1,4 +1,4 @@
-package org.endless.xin.service;
+package org.endless.xin.servicemesh;
 
 import static org.junit.Assert.assertTrue;
 
